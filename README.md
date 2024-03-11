@@ -23,7 +23,7 @@ Nosso grupo atualmente concentra as discussões no grupo de **WhatsApp**. Para o
 
 ## Sobre o documento "código de conduta"
 
-O código de conduta é um conjunto de regras para orientar a conduta e as atividades de um grupo de pessoas participantes de acordo com os seus princípios e objetivos. As regras devem ser cumpridas e levadas a sério pela comunidade, sejam participantes, espectadores ou pessoas organizadoras e deverão ser respeitadas a todos os lugares onde tenha atividades relacionadas a comunidade, seja ela presencial ou no âmbito online.
+O código de conduta é um conjunto de regras para orientar a conduta e as atividades de um grupo de pessoas participantes de acordo com os seus princípios e objetivos. As regras devem ser cumpridas e levadas a sério pela comunidade, sejam participantes, espectadores ou pessoas organizadoras e deverão ser respeitadas a todos os lugares onde tenha atividades relacionadas a comunidade, seja ela presencial ou online.
 
 **É de responsabilidade de todas as pessoas participantes acompanharem as mudanças nesse código de conduta. A participação em qualquer atividade relacionada a ConectaDevs supõe que a pessoa esteja de acordo com as regras aqui apresentadas.**
 
