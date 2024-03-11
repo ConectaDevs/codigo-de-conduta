@@ -71,7 +71,9 @@ Não nos responsabilizamos por atividades e conteúdos de terceiros. Incentivamo
 
 - Pessoas que tiverem atitudes consideradas _Spam_ ou _Scam_ ou divulgações com objetivo de ganho pessoal sem ciência das pessoas organizadoras;
 - Pessoas que tenham atentado contra o [espaço seguro](#espaço-seguro), mesmo que com atitudes que tenham acontecido fora do escopo da comunidade;
-- Ressaltamos que não será tolerado qualquer conteúdo envolvendo pessoas dentro e fora da comunidade: assédio, conteúdo ou comentário sexista ou homotransfóbico, perseguição (_stalking_), conteúdo que incite ódio, atitudes preconceituosas, racistas, capacitistas, etárias ou classistas, ofensas e injúrias;
+- Ressaltamos que não será tolerado qualquer conteúdo envolvendo pessoas dentro e fora da comunidade: assédio, perseguição (_stalking_), conteúdo ou comentário sexista ou homotransfóbico, conteúdo sexual, conteúdo que incite ódio, atitudes preconceituosas, racistas, capacitistas, etárias ou classistas, ofensas e injúrias;
+- Comentários ou comportamentos de trollagem, insulto ou depreciativos;
+- Fotografar, gravar ou utilizar imagem ou conteúdo de participantes da comunidade sem seu consentimento;
 - Disseminação de conteúdo com o intuito de prejudicar a moral de alguém dentro ou fora da comunidade;
 - As pessoas organizadoras, em consenso, podem optar pela não participação de qualquer pessoa que considerem um risco ou ameaça à comunidade.
 
@@ -101,3 +103,10 @@ Trataremos o problema em conjunto e garantiremos a privacidade dos seus dados.
 No caso do problema ter ocorrido em alguma atividade da comunidade, especialmente de forma presencial, contacte uma pessoa organizadora o mais rápido possível para que possamos garantir sua segurança dentro de nossas atividades.
 
 No caso de eventos pagos da comunidade, qualquer expulsão por parte da comunidade ou da segurança do evento isenta a possibilidade da pessoa transgressora obter reembolso ou ressarcimento por parte da ConectaDevs ou de plataformas utilizadas para a realização do evento.
+
+## Referências de códigos de conduta utilizadas para a criação deste
+
+- [Código de Conduta Feministech](https://github.com/feministech/codigo-de-conduta?tab=readme-ov-file)
+- https://pt-br.confcodeofconduct.com/
+- [Código de Conduta WoMakersCode](https://github.com/WoMakersCode/codigo-de-conduta)
+- [Termos do GitHub](https://docs.github.com/pt/site-policy/github-terms/github-event-code-of-conduct)
