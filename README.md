@@ -94,7 +94,7 @@ Válido tanto para a comunidade quanto para atividades que envolvam a comunidade
 
 ## Como proceder no caso de alguma infração deste código
 
-Caso você tenha presenciado alguma infração deste código e que tenha acontecido dentro ou fora da comunidade ou de alguma atividade da comunidade ConectaDevs, contacte uma pessoa organizadora.
+Caso você tenha presenciado alguma infração deste código e que tenha acontecido dentro da comunidade ou em alguma atividade envolvendo a ConectaDevs, entre em contato com uma pessoa organizadora.
 
 Caso queira reportar a atitude de uma pessoa organizadora, entre em contato com outra.
 
