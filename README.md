@@ -58,7 +58,7 @@ Para isto, não serão tolerados discriminação, injúria ou mensagens de teor 
 - Nível de conhecimento ou dificuldade em qualquer assunto da área de tecnologia ou fora dele;
 - Utilização de humor ou arte com teor ofensivo.
 
-**Também não será tolerado nenhum tipo de assédio, perseguição (_stalking_), atitudes homotransfóbicas, invasão, exposição ou _doxxing_ de privacidade ou de um indivíduo, ameaças e injúrias e exposição envolvendo indivíduos menores de idade.**
+**Também não será tolerado nenhum tipo de assédio, perseguição (_stalking_), atitudes homotransfóbicas, invasão, exposição ou _doxxing_ de privacidade ou de um indivíduo, ameaças e injúrias e exposição envolvendo indivíduos menores de idade. Também não será tolerado nenhuma atitude que seja conivente, incitador ou favorável a estas práticas.**
 
 Não nos responsabilizamos por atividades e conteúdos de grupos terceiros. Incentivamos que sejam divulgadas atividades como eventos restritos a certo público, mesmo que excludentes a outros recortes. Mesmo não sendo de nossa responsabilidade, esperamos que as pessoas participantes respeitem tais atividades, conteúdos e divulgações.
 
