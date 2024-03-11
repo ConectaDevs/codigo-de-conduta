@@ -65,7 +65,7 @@ Não nos responsabilizamos por atividades e conteúdos de terceiros. Incentivamo
 ## Ao participar da comunidade ConectaDevs ou de atividades da comunidade, você concorda em
 
 - Ter ciência e ter concordado com os termos aqui descritos;
-- Ser uma pessoa respeitosa com qualquer outro integrante da comunidade ou participante de atividades advindos da comunidade.
+- Ser uma pessoa respeitosa com qualquer outre integrante da comunidade ou participante de atividades advindos da comunidade.
 
 ## Não serão tolerados e consequentemente não poderão fazer parte da comunidade
 
@@ -87,7 +87,7 @@ Válido tanto para a comunidade quanto para atividades que envolvam a comunidade
 - Não use do seu status (carreira, posição na empresa, gênero etc) para diminuir outra pessoa participante ou fora da comunidade;
 - Não ofenda nenhuma pessoa participante ou terceiro;
 - Evite discussões sobre "tecnologia X é melhor que Y", na maioria das vezes são discussões infrutíferas podendo até ser discriminatória;
-- Evite divulgar código proprietário, mesmo que por dúvida (muitas vezes empresas contratam sob um contrato de _NDA_ (do inglês Non Disclosure Agreement, onde a pessoa pode ser inclusive demitida por compartilhar código proprietário);
+- Evite divulgar código proprietário, mesmo que por dúvida (muitas vezes empresas contratam sob _NDA_, do inglês Non Disclosure Agreement, onde a pessoa pode ser inclusive demitida por compartilhar código proprietário), também pedimos que evitem compartilhar código, mesmo aberto, cuja licença não seja permissiva;
 - Não praticar _mainsplaining_.
 
 ## Como proceder no caso de alguma infração deste código
