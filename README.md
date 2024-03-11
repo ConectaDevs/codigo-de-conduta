@@ -87,7 +87,6 @@ Válido tanto para a comunidade quanto para atividades que envolvam a comunidade
 - Lembramos que temos pessoas trans na comunidade, pedimos que respeitem seus pronomes, identidade e expressão de gênero;
 - Seja gentil, diversidade é um pilar da comunidade, temos pessoas de diversos níveis de conhecimento e de diversas vivências, não assuma que a outra pessoa possui o mesmo conhecimento que você adquiriu durante sua vivência, também evite criticar perguntas ou agir de forma superior devido a sua vivência não ser a mesma da outra pessoa;
 - Não use do seu status (carreira, posição na empresa, gênero etc) para diminuir outra pessoa participante ou fora da comunidade;
-- Não ofenda nenhuma pessoa participante ou terceiro;
 - Evite discussões sobre "tecnologia X é melhor que Y", na maioria das vezes são discussões infrutíferas podendo até ser discriminatória;
 - Evite divulgar código proprietário, mesmo que por dúvida (muitas vezes empresas contratam sob _NDA_, do inglês Non Disclosure Agreement, onde a pessoa pode ser inclusive demitida por compartilhar código proprietário), também pedimos que evitem compartilhar código, mesmo aberto, cuja licença não seja permissiva;
 - Não praticar _mainsplaining_.
