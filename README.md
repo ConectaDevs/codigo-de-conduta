@@ -33,6 +33,10 @@ Estamos abertes a sugestões e críticas construtivas sobre as regras quando for
 
 Estar presentes nas conexões entre pessoas estudantes e pessoas em migração de carreira para TI com profissionais da área de tecnologia em encontros presenciais e virtuais, como Meetups e outros eventos de tecnologia, também em divulgação de cursos e vagas que se tornaram uma parte essencial de nossa abordagem para conectar pessoas e impulsionar o crescimento profissional.
 
+## Quem pode participar da comunidade e de atividades ConectaDevs?
+
+Qualquer pessoa física que esteja e aja de acordo com este código de conduta.
+
 ## Espaço seguro
 
 As pessoas organizadoras da comunidade se comprometem em manter o espaço seguro a toda atividade que condiz a comunidade ConectaDevs.
@@ -42,6 +46,7 @@ Para isto, não serão tolerados discriminação, injúria ou mensagens de teor 
 - Cor;
 - Raça;
 - Etnia;
+- Nacionalidade;
 - Gênero: ressaltando identidade de gênero e expressão de gênero, incluindo atitudes sexistas;
 - Linguagem ou imagem sexual trafegados dentro de nossas plataformas e ambientes;
 - Orientação sexual;
@@ -51,6 +56,7 @@ Para isto, não serão tolerados discriminação, injúria ou mensagens de teor 
 - Etariedade;
 - Faixa ou declaração sócioeconômico;
 - Escolaridade;
+- Discursos de ódio;
 - Religião ou a ausência deste;
 - Posicionamento político ou ausência deste;
 - Supremacismo, de qualquer teor (incluindo discussões como "quem utiliza/programa em/faz/... X é melhor que Y");
@@ -60,7 +66,7 @@ Para isto, não serão tolerados discriminação, injúria ou mensagens de teor 
 
 **Também não será tolerado nenhum tipo de assédio, perseguição (_stalking_), atitudes homotransfóbicas, invasão, exposição ou _doxxing_ de privacidade ou de um indivíduo, ameaças e injúrias e exposição envolvendo indivíduos menores de idade. Também não será tolerado nenhuma atitude que seja conivente, incitador ou favorável a estas práticas.**
 
-Não nos responsabilizamos por atividades e conteúdos de grupos terceiros. Incentivamos que sejam divulgadas atividades como eventos restritos a certo público, mesmo que excludentes a outros recortes. Mesmo não sendo de nossa responsabilidade, esperamos que as pessoas participantes respeitem tais atividades, conteúdos e divulgações.
+Não nos responsabilizamos por atividades e conteúdos de grupos terceiros. É permitida e inclusive incentivamos que sejam divulgadas atividades como eventos, vagas e cursos restritos a certo público, mesmo que excludentes a outros recortes. Mesmo não sendo de nossa responsabilidade, esperamos que as pessoas participantes respeitem tais atividades, conteúdos e divulgações.
 
 ## Ao participar da comunidade ConectaDevs ou de atividades da comunidade, você concorda em
 
