@@ -6,7 +6,7 @@ Somos a ContectaDevs, uma comunidade ativa e inclusiva com o intuito de ser uma 
 
 Nosso propósito vai além do código, buscando promover conexões, eventos e oportunidades de aprendizado.
 
-Valorizamos a diversidade e temos como compromisso apoiar mulheres, pessoas pretas, indivíduos com mais de 40 anos, pessoas de diversas idades e realidades financeiras, pessoas que se identificam como LGBTQIA+, pessoas com deficiência (PcD), autistas e neurodiversas.
+Valorizamos a diversidade e temos como compromisso apoiar mulheres, pessoas pretas, indivíduos com mais de 40 anos, pessoas de diversas idades e realidades financeiras, pessoas que se identificam como LGBTQIA+, pessoas com deficiência (PcD), autistas e neuroatípicas.
 
 Nosso objetivo é promover um ambiente verdadeiramente inclusivo e com equidade.
 
