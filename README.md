@@ -66,11 +66,17 @@ Para isto, não serão tolerados discriminação, injúria ou mensagens de teor 
 
 **Também não será tolerado nenhum tipo de assédio, perseguição (_stalking_), atitudes homotransfóbicas, invasão, exposição ou _doxxing_ de privacidade ou de um indivíduo, ameaças e injúrias e exposição envolvendo indivíduos menores de idade. Também não será tolerado nenhuma atitude que seja conivente, incitador ou favorável a estas práticas.**
 
-### Sobre divulgação de eventos de terceiros
+## Sobre divulgação de eventos de terceiros
 
 Não nos responsabilizamos por atividades e conteúdos de grupos terceiros. É permitida e inclusive incentivamos que sejam divulgadas atividades como eventos, vagas e cursos restritos a certo público, mesmo que excludentes a outros recortes. Mesmo não sendo de nossa responsabilidade, esperamos que as pessoas participantes respeitem tais atividades, conteúdos e divulgações.
 
 A divulgação é permitida sem necessidade de obter permissão a uma pessoa organizadora caso o conteúdo seja pertinente ao objetivo do grupo (devem ser sobre tecnologia, sendo possível a divulgação de cursos, vagas, eventos e meetups). Não serão permitidas as divulgações de conteúdo que sejam contra este código de conduta.
+
+### Sobre outros tipos de divulgação
+
+Pedimos que sejam evitadas divulgações de campanhas e outros meios de ganhos pessoais como ajuda e rifa. Caso realmente necessite, discuta antes com uma pessoa organizadora. Lembrando que caso participe em alguma atividade da comunidade ConectaDevs e seja claro que a participação desta pessoa não seja em prol da comunidade e seja apenas com o intuito aqui referido, as pessoas organizadoras podem tomar a atitude de desligar o acesso da pessoa referida às atividades da comunidade.
+
+Porém é livre a divulgação de campanhas onde beneficiem mais de uma pessoa ligada a uma classe em tecnologia, como por exemplo: Divulgação de ingressos puramente sociais onde pessoas pagam para que outras pessoas de recorte possam ter acesso a certo conteúdo pago.
 
 ## Ao participar da comunidade ConectaDevs ou de atividades da comunidade, você concorda em
 
