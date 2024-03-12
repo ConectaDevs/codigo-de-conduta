@@ -70,6 +70,8 @@ Para isto, não serão tolerados discriminação, injúria ou mensagens de teor 
 
 Não nos responsabilizamos por atividades e conteúdos de grupos terceiros. É permitida e inclusive incentivamos que sejam divulgadas atividades como eventos, vagas e cursos restritos a certo público, mesmo que excludentes a outros recortes. Mesmo não sendo de nossa responsabilidade, esperamos que as pessoas participantes respeitem tais atividades, conteúdos e divulgações.
 
+A divulgação é permitida sem necessidade de obter permissão a uma pessoa organizadora caso o conteúdo seja pertinente ao objetivo do grupo (devem ser sobre tecnologia, sendo possível a divulgação de cursos, vagas, eventos e meetups). Não serão permitidas as divulgações de conteúdo que sejam contra este código de conduta.
+
 ## Ao participar da comunidade ConectaDevs ou de atividades da comunidade, você concorda em
 
 - Ter ciência e ter concordado com os termos aqui descritos;
